@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @pavlukcrazy327
+# 👋 Hi, I’m Yurii.
 
 ## 🚀 About Me
 I am a passionate Full-Stack Developer with experience building modern web applications, APIs, and scalable services.
