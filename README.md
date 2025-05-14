@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yurii.
 
 ## 🚀 About Me
-I am a passionate Full-Stack Developer with experience building modern web applications, APIs, and scalable services.
+I am a passionate Full-Stack & Blockchain Developer with experience building modern web applications, APIs, and scalable services.
 
 - 👀 **I’m interested in:**  
   - Building scalable web applications  
@@ -29,8 +29,17 @@ I am a passionate Full-Stack Developer with experience building modern web appli
 ### Backend:
 - Node.js, Express.js, Nest.js  
 - Python (Django, Flask/FastAPI)  
-- PHP (Laravel)  
-
+- PHP (Laravel)
+  
+### Blockchain
+- Web3.js
+- Solidity
+- Rust
+- DeFi Tech
+- Ethereum/EVM
+- NFT/FT
+- Indexer
+  
 ### Databases:
 - MongoDB, PostgreSQL, MySQL
 - Redis, Firebase
