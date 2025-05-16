@@ -52,7 +52,7 @@ I am a passionate Full-Stack & Blockchain Developer with experience building mod
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavlukcrazy327&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperCodex1004&show_icons=true&theme=radical)
 
 ---
 
