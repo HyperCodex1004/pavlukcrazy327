@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yurii.
+# 👋 Hi.
 
 ## 🚀 About Me
 I am a passionate Full-Stack & Blockchain Developer with experience building modern web applications, APIs, and scalable services.
