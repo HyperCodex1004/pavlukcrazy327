@@ -56,5 +56,11 @@ I am a passionate Full-Stack & Blockchain Developer with experience building mod
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperCodex1004&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HyperCodex1004&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HyperCodex1004&theme=radical)
+
 ## 🤝 Let's Connect!
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just chat about tech!
